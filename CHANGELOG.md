@@ -1,3 +1,11 @@
+# 1.0.0 (2022-10-24)
+
+
+### Bug Fixes
+
+* env example ([c782cef](https://github.com/ialexanderbrito/marvel/commit/c782cef7b0b598be60be000ca97516dd612db25e))
+* gitignore update ([831a14d](https://github.com/ialexanderbrito/marvel/commit/831a14d698c6fb8676a74d26c6b7f8db03d912b0))
+
 ## [1.0.1](https://github.com/alxUI/boilerplate-vite/compare/v1.0.0...v1.0.1) (2022-07-04)
 
 
