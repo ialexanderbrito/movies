@@ -1,3 +1,14 @@
+# [1.2.0](https://github.com/ialexanderbrito/movies/compare/v1.1.0...v1.2.0) (2022-10-24)
+
+
+### Features
+
+* add environment dev and prod ([660e6e9](https://github.com/ialexanderbrito/movies/commit/660e6e9bfedd0bb5033099be4d7851b9f459f6e2))
+* add environment service api ([2398b5e](https://github.com/ialexanderbrito/movies/commit/2398b5eeecf186d87c6523af3cb1eeaf01e78c1b))
+* add interfaces ([2fcd354](https://github.com/ialexanderbrito/movies/commit/2fcd354d7eeae0ba0dc4f85d3290db4bcfbfa753))
+* add services movies ([e6bc1d7](https://github.com/ialexanderbrito/movies/commit/e6bc1d73737cee39aed971869d31256a4d1a958b))
+* add services tv series ([53483f7](https://github.com/ialexanderbrito/movies/commit/53483f791f97fc298c70f3532a5f7ab4e2712bc1))
+
 # [1.1.0](https://github.com/ialexanderbrito/marvel/compare/v1.0.0...v1.1.0) (2022-10-24)
 
 
