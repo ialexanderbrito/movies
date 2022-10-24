@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/ialexanderbrito/movies/compare/v1.2.0...v1.3.0) (2022-10-24)
+
+
+### Features
+
+* add query client provider and query dev tools ([939f6f4](https://github.com/ialexanderbrito/movies/commit/939f6f41b73e099534cf8fd4f0496d429453b65f))
+
 # [1.2.0](https://github.com/ialexanderbrito/movies/compare/v1.1.0...v1.2.0) (2022-10-24)
 
 
