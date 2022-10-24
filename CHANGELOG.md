@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/ialexanderbrito/movies/compare/v1.4.0...v1.4.1) (2022-10-24)
+
+
+### Bug Fixes
+
+* netlify ([f2cae6f](https://github.com/ialexanderbrito/movies/commit/f2cae6fe30b31192917c50535361a908d670aedf))
+
 # [1.4.0](https://github.com/ialexanderbrito/movies/compare/v1.3.0...v1.4.0) (2022-10-24)
 
 
