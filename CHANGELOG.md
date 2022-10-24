@@ -1,3 +1,20 @@
+# [1.4.0](https://github.com/ialexanderbrito/movies/compare/v1.3.0...v1.4.0) (2022-10-24)
+
+
+### Features
+
+* add button component ([88a1157](https://github.com/ialexanderbrito/movies/commit/88a11573ddb6c874fb5eb60dd2cf445bca635049))
+* add card component ([6e3a050](https://github.com/ialexanderbrito/movies/commit/6e3a0506b8a14bf718da883035384646a9fed91a))
+* add category component ([523add0](https://github.com/ialexanderbrito/movies/commit/523add0cb2b05f821262518003306ea8e547ba80))
+* add category context ([a8334f9](https://github.com/ialexanderbrito/movies/commit/a8334f9b7da5f5b3df24e5eb55184e4f15a25f6f))
+* add header component ([cef1d38](https://github.com/ialexanderbrito/movies/commit/cef1d38ee4c088c949db310aa5beb6b4616b602e))
+* add hook home ([64cba05](https://github.com/ialexanderbrito/movies/commit/64cba05ef8035d945d004bf3f4a22c97d479812e))
+* add page details movie ([e5e16d1](https://github.com/ialexanderbrito/movies/commit/e5e16d1c26eaae93a1ea7ce4dcd2d03b9afd5ae3))
+* add page details series ([b0e9148](https://github.com/ialexanderbrito/movies/commit/b0e914882399df92b86858a66a6897fd22ab9d25))
+* add page home ([cd2321b](https://github.com/ialexanderbrito/movies/commit/cd2321b2103ca995029d24637332e19f173ab8c5))
+* add routes and import category provider ([19fc9bc](https://github.com/ialexanderbrito/movies/commit/19fc9bcd537457b12bbc7334a343c8bbc0899394))
+* add skeleton component ([13de896](https://github.com/ialexanderbrito/movies/commit/13de896c397acbfd40c2a0a68ecc6e48d15251ac))
+
 # [1.3.0](https://github.com/ialexanderbrito/movies/compare/v1.2.0...v1.3.0) (2022-10-24)
 
 
