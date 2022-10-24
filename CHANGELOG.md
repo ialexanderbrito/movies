@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/ialexanderbrito/marvel/compare/v1.0.0...v1.1.0) (2022-10-24)
+
+
+### Bug Fixes
+
+* name title and favicon ([6b80415](https://github.com/ialexanderbrito/marvel/commit/6b80415556f6d182cd5d343d0d46f6588e0e7854))
+* yarn lock ([a717165](https://github.com/ialexanderbrito/marvel/commit/a7171658c4f3c1ae4526e4e81591d491958467aa))
+
+
+### Features
+
+* add assets ([94f50be](https://github.com/ialexanderbrito/marvel/commit/94f50bea7702d66a2b4e803485b0a9b0e6110c01))
+* add new dependencies ([32a1af4](https://github.com/ialexanderbrito/marvel/commit/32a1af45359361433ef859ecc7dc298171d77ed0))
+
 # 1.0.0 (2022-10-24)
 
 
